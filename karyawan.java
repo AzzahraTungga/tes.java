@@ -1,9 +1,10 @@
 public class karyawan {
     // Object class
-    int id;
     String nama;
-    String unit;
+    int id;
     String alamat;
+    String unit;
+
 
     // Constructor Parameter
     public karyawan(int id, String nama, String unit, String alamat) {
